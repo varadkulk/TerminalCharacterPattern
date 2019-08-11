@@ -13,6 +13,7 @@ public class pattern {
 				else
 					s += s1.charAt(j + i);
 			}
+			out.println("");
 			l.one(s, s.length());
 			l.two(s, s.length());
 			l.three(s, s.length());
@@ -25,7 +26,6 @@ public class pattern {
 			l.ten(s, s.length());
 			l.eleven(s, s.length());
 			l.twelve(s, s.length());
-			// out.println("\n" + s + "\n");
 			i += (x - 1);
 		}
 	}
