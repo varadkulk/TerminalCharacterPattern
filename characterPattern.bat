@@ -1,0 +1,1 @@
+javac  characterPattern.java && javac lines.java && javac pattern.java && javac patternData.java  &&  java characterPattern

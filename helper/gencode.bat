@@ -1,0 +1,1 @@
+javac gencode.java && java gencode
